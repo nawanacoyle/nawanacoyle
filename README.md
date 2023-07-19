@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nawanacoyle
+- 👋 Hi, I’m Nawana Coyle
 - 👀 I’m interested in data science projects.
 - 💞️ I’m looking to collaborate with a team to create meaningful insights to data. 
 - 📫 You can reach me at nawanacoyle@gmail.com or 443-930-6349.
